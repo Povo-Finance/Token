@@ -224,7 +224,7 @@ contract PovoToken is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "Povo.finance";
-    string private _symbol = "POV";
+    string private _symbol = "POVO";
     uint8 private _decimals = 9;
 
     struct AddressFee {
